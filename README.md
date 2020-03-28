@@ -1,7 +1,5 @@
 # Sparkify_Udacity_Project
 
-# Pluralsight Dataset Prokect
-
 In this project, I focus on predict the churn and probability rate of subscriber continue on their serivce
 
 ### Table of Contents
