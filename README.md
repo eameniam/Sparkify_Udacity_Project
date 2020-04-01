@@ -14,12 +14,7 @@ In this project, I focus on predict the churn and probability rate of subscriber
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
-At Pluralsight we sell subscriptions to our learning platform to both business customer and
-individuals. For individual customers, these subscriptions can be purchased monthly or
-annually (at a lower per-month charge). Monthly subscribers may utilize our auto-renew feature
-which allows their payment to automatically recur each month, or they may manually renew as
-needed. Retaining our learners is important to us and we would like to be able to identify those
-who are at risk for not renewing their subscription. With that information, we can take
+This is a project from Udacity data science nanodegree. In this dataset, the user's event data from music application Sparkify is provided to build up a model for predicting churn action. Retaining our learners is important to us and we would like to be able to identify those who are at risk for not renewing their subscription. With that information, we can take
 intervention action aimed to motivate renewal.
 
 
